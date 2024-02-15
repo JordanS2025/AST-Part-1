@@ -1,9 +1,5 @@
 # AST Part 1
  CST-301 AST project
-Certainly! Here's a README file for your code:
-
----
-
 # Java AST Exporter
 
 ## Overview
